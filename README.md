@@ -20,13 +20,13 @@ the correct support to improve your online customer base.
   
 Added page title
 
-Organized heading title elements in sequential order
+Organized head title elements in sequential order
 
 Line 40 added id="search-engine-optimization" to fix Page Link
 
 Added alt and title id's for images
 
-Added semantic HTML eLements (nav, article, aside)
+Added semantic HTML elements (nav, article, aside)
 
 Added commenting for each corresponding CSS sections
 
