@@ -24,7 +24,7 @@ nav h1 {
     font-size: 48px; 
 }
 
-nav h1 .seo {
+nav h1 #seo {
     color: #d9dcd6; /* Set font color of "seo" to #d9dcd6 in the Page Name */
 }
 
