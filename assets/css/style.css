@@ -71,7 +71,7 @@ a {
     margin-left: 20px;
 }
 
-article {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -102,7 +102,7 @@ article {
     margin-left: 25px;
 }
 
-article h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
